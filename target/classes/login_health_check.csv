@@ -1,0 +1,14 @@
+Element_name,Large,Medium_landscape,Medium_portrait,Small
+baseurl0,http://qa3.myngconnect.com/,http://qa1.myngconnect.com/,http://s-www.myngconnect.com,http://qa2.myngconnect.com/
+baseurl0_name,qa3,qa1,staging,
+usertype,teacher,teacher,teacher,teacher
+username,systemadmin@cengage.com,systemadmin@cengage.com,systemadmin@cengage.com,student@texas
+password,Cengage123,Cengage123,Cengage123,password
+content_repository,/html/body/div/div[2]/div/div/table/tbody/tr[2]/td[2]/div/table/tbody/tr[12]/td[2]/div,/html/body/div/div[2]/div/div/table/tbody/tr[2]/td[2]/div/table/tbody/tr[12]/td[2]/div,/html/body/div/div[2]/div/div/table/tbody/tr[2]/td[2]/div/table/tbody/tr[12]/td[2]/div,
+sri1,/html/body/div/div[2]/div/div/table/tbody/tr[2]/td[2]/div/table/tbody/tr[16]/td[2]/div,/html/body/div/div[2]/div/div/table/tbody/tr[2]/td[2]/div/table/tbody/tr[16]/td[2]/div,/html/body/div/div[2]/div/div/table/tbody/tr[2]/td[2]/div/table/tbody/tr[16]/td[2]/div,
+sri2,/html/body/div/div[2]/div/div/table/tbody/tr[2]/td[2]/div/table/tbody/tr[18]/td[2]/div,/html/body/div/div[2]/div/div/table/tbody/tr[2]/td[2]/div/table/tbody/tr[18]/td[2]/div,/html/body/div/div[2]/div/div/table/tbody/tr[2]/td[2]/div/table/tbody/tr[18]/td[2]/div,
+sri3,/html/body/div/div[2]/div/div/table/tbody/tr[2]/td[2]/div/table/tbody/tr[20]/td[2]/div,/html/body/div/div[2]/div/div/table/tbody/tr[2]/td[2]/div/table/tbody/tr[20]/td[2]/div,/html/body/div/div[2]/div/div/table/tbody/tr[2]/td[2]/div/table/tbody/tr[20]/td[2]/div,
+wowza,/html/body/div/div[2]/div/div/table/tbody/tr[2]/td[2]/div/table/tbody/tr[23]/td[2]/div,/html/body/div/div[2]/div/div/table/tbody/tr[2]/td[2]/div/table/tbody/tr[23]/td[2]/div,/html/body/div/div[2]/div/div/table/tbody/tr[2]/td[2]/div/table/tbody/tr[23]/td[2]/div,
+auth_api,/html/body/div/div[2]/div/div/table/tbody/tr[2]/td[2]/div/table/tbody/tr[27]/td[2]/div,/html/body/div/div[2]/div/div/table/tbody/tr[2]/td[2]/div/table/tbody/tr[27]/td[2]/div,/html/body/div/div[2]/div/div/table/tbody/tr[2]/td[2]/div/table/tbody/tr[27]/td[2]/div,
+database,/html/body/div/div[2]/div/div/table/tbody/tr[2]/td[2]/div/table/tbody/tr[7]/td[2]/div,/html/body/div/div[2]/div/div/table/tbody/tr[2]/td[2]/div/table/tbody/tr[7]/td[2]/div,/html/body/div/div[2]/div/div/table/tbody/tr[2]/td[2]/div/table/tbody/tr[7]/td[2]/div,
+webassets,/html/body/div/div[2]/div/div/table/tbody/tr[2]/td[2]/div/table/tbody/tr[3]/td[2]/div,/html/body/div/div[2]/div/div/table/tbody/tr[2]/td[2]/div/table/tbody/tr[3]/td[2]/div,/html/body/div/div[2]/div/div/table/tbody/tr[2]/td[2]/div/table/tbody/tr[3]/td[2]/div,
